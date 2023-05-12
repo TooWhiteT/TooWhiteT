@@ -1,12 +1,20 @@
 ## 👋 Ladies and gentlemen, Welcome to my Github。 爱你呦~ 😘
 
 我是一名Android Dev两年半的练习生，我会CV，Google和各大主流编程语言Hello World输出。
-
-![Metrics](https://metrics.lecoq.io/TooWhiteT?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&calendar=1&stars=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stars=false&stars.limit=2&calendar=false&calendar.limit=1&config.timezone=Asia%2FShanghai&config.twemoji=true&config.octicon=true&config.display=columns)
-
+<div>
+  <img height="200px" width=”50%“ src="https://github-readme-stats.vercel.app/api?username=TooWhiteT&show_icons=true&count_private=true&hide=contribs,issues&theme=vue-dark&include_all_commits=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&locale=cn&icon_color=00f2fe&text_color=ffffff&title_color=e2af598"/>
+  <img height="200px" width=”50%“ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TooWhiteT&layout=compact&hide_title=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&text_color=ffffff"/>
+</div>
+<div>
+  <a href="https://github.com/TooWhiteT/DailyAlgorithms">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=TooWhiteT&repo=dailyAlgorithms&show_owner=true&theme=vue-dark&hide_border=true"/>
+  </a>
+  <a href="https://github.com/TooWhiteT/NoBugDictionary">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=TooWhiteT&repo=NoBugDictionary&show_owner=true&theme=vue-dark&hide_border=true"/>
+  </a>
+</div>
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=TooWhiteT&show_icons=true&count_private=true&hide=contribs,issues&theme=vue-dark&include_all_commits=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&locale=cn&icon_color=00f2fe&text_color=f5576c
-&title_color=f5576c"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TooWhiteT&theme=tokyo-night&hide_border=true&custom_title=TooWhiteT&radius=16"/>
 </div>
 
 | 技能🌳    |                | 阅读📚                                   |                        |
