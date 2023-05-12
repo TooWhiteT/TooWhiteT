@@ -1,16 +1,16 @@
 ## 👋 Ladies and gentlemen, Welcome to my Github。 爱你呦~ 😘
 
-我是一名Android Dev两年半的练习生，我会CV，Google和各大主流编程语言Hello World输出。
+我是一名Android Dev两年半的练习生，我会CV，Google和各大主流编程语言Hello World输出。![访问统计](https://visitor-badge.glitch.me/badge?page_id=TooWhiteT)
 <div>
   <img height="200px" width=”50%“ src="https://github-readme-stats.vercel.app/api?username=TooWhiteT&show_icons=true&count_private=true&hide=contribs,issues&theme=vue-dark&include_all_commits=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&locale=cn&icon_color=00f2fe&text_color=ffffff&title_color=e2af598"/>
   <img height="200px" width=”50%“ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TooWhiteT&layout=compact&hide_title=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&text_color=ffffff"/>
 </div>
-<a href="https://github.com/TooWhiteT/DailyAlgorithms">
+<!-- <a href="https://github.com/TooWhiteT/DailyAlgorithms">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=TooWhiteT&repo=dailyAlgorithms&show_owner=true&theme=vue-dark&hide_border=true"/>
 </a>
 <a href="https://github.com/TooWhiteT/NoBugDictionary">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=TooWhiteT&repo=NoBugDictionary&show_owner=true&theme=vue-dark&hide_border=true"/>
-</a>
+</a> -->
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TooWhiteT&theme=tokyo-night&hide_border=true&custom_title=TooWhiteT&radius=16"/>
 </div>
