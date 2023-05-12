@@ -2,7 +2,12 @@
 
 我是一名Android Dev两年半的练习生，我会CV，Google和各大主流编程语言Hello World输出。
 
-![Metrics](https://metrics.lecoq.io/TooWhiteT?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&leetcode=1&achievements=1&calendar=1&stars=1&topics=1&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&topics=false&topics.mode=icons&topics.sort=random&topics.limit=15&stars=false&stars.limit=2&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&leetcode=false&leetcode.user=tzg1064690854%40gmail.com&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FShanghai&config.twemoji=true&config.octicon=true&config.display=columns)
+![Metrics](https://metrics.lecoq.io/TooWhiteT?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&calendar=1&stars=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stars=false&stars.limit=2&calendar=false&calendar.limit=1&config.timezone=Asia%2FShanghai&config.twemoji=true&config.octicon=true&config.display=columns)
+
+<div align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=TooWhiteT&show_icons=true&count_private=true&hide=contribs,issues&theme=vue-dark&include_all_commits=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&locale=cn&icon_color=00f2fe&text_color=f5576c
+&title_color=f5576c"/>
+</div>
 
 | 技能🌳    |                | 阅读📚                                   |                        |
 |---------|----------------|----------------------------------------|------------------------|
