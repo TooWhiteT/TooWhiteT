@@ -1,9 +1,12 @@
 ## 👋 Ladies and gentlemen, Welcome to my Github。 爱你呦~ 😘
 
 我是一名Android Dev两年半的练习生，我会CV，Google和各大主流编程语言Hello World输出。
+<!-- 访问数据-->
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=TooWhiteT&left_color=green&right_color=red"/> 
+  <img src="https://komarev.com/ghpvc/?username=TooWhiteT&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;">
+  <img src="https://badges.pufler.dev/visits/TooWhiteT/TooWhiteT?color=black&logo=github&style=flat-square">♂
 </div>
+<!-- 统计卡片 -->
 <div>
   <img height="200px" width=”50%“ src="https://github-readme-stats.vercel.app/api?username=TooWhiteT&show_icons=true&count_private=true&hide=contribs,issues&theme=vue-dark&include_all_commits=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&locale=cn&icon_color=00f2fe&text_color=ffffff&title_color=e2af598"/>
   <img height="200px" width=”50%“ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TooWhiteT&layout=compact&hide_title=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&text_color=ffffff"/>
