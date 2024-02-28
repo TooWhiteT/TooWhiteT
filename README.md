@@ -1,6 +1,6 @@
 ## 👋 Ladies and gentlemen, Welcome to my Github。 爱你呦~ 😘
 
-我是一名Android Dev两年半的练习生，我会CV，Google和各大主流编程语言Hello World输出。![统计](https://github-readme-stats.vercel.app/api?username=TooWhiteT&show_icons=true&theme=radical)
+我是一名Android Dev两年半的练习生，我会CV，Google和各大主流编程语言Hello World输出。![统计访问数量](https://visitor-badge.glitch.me/badge?page_id=TooWhiteT&left_color=green&right_color=red)
 <div>
   <img height="200px" width=”50%“ src="https://github-readme-stats.vercel.app/api?username=TooWhiteT&show_icons=true&count_private=true&hide=contribs,issues&theme=vue-dark&include_all_commits=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&locale=cn&icon_color=00f2fe&text_color=ffffff&title_color=e2af598"/>
   <img height="200px" width=”50%“ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TooWhiteT&layout=compact&hide_title=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&text_color=ffffff"/>
