@@ -68,12 +68,12 @@
 ![openai](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat)
 ![xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=fff&style=flat)
 
-<div>
-
-  <!-- 统计卡片 -->
+<!-- 统计卡片 -->
+<!--<div>
   <img height="200px" width=”50%“ src="https://github-readme-stats.vercel.app/api?username=TooWhiteT&show_icons=true&count_private=true&hide=contribs,issues&theme=vue-dark&include_all_commits=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&locale=cn&icon_color=00f2fe&text_color=ffffff&title_color=e2af598"/>
   <img height="200px" width=”50%“ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TooWhiteT&layout=compact&hide_title=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&text_color=ffffff"/>
-</div>
+</div>-->
+
 
 <!--电脑端
 图标地址https://www.shields.io/badges
