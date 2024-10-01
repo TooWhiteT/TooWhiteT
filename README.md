@@ -22,7 +22,7 @@
 
 <div>
   <!--个性签名-->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=人生如棋，一步三思，落子无悔。&author=数星星的少年郎">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=人生如棋，落子无悔。如箭离弦，永不回头。&author=数星星的少年郎">
   <!-- 统计卡片 -->
   <img height="200px" width=”50%“ src="https://github-readme-stats.vercel.app/api?username=TooWhiteT&show_icons=true&count_private=true&hide=contribs,issues&theme=vue-dark&include_all_commits=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&locale=cn&icon_color=00f2fe&text_color=ffffff&title_color=e2af598"/>
   <img height="200px" width=”50%“ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TooWhiteT&layout=compact&hide_title=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&text_color=ffffff"/>
