@@ -14,9 +14,9 @@
 | ![Android](https://img.shields.io/badge/Android-34A853?logo=Android&logoColor=fff&style=flat) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white&style=flat)        | Android 开发艺术探索                         | 漫画算法                   |
 | ![Java](https://img.shields.io/badge/Java-fff?logo=openjdk&logoColor=black&style=flat)    | ![Dart](https://img.shields.io/badge/Dart-06B6D4?logo=Dart&logoColor=white&style=flat)           | Android 设计模式解析与实战                      | 大话设计模式                 |
 | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=fff&style=flat)  | ![C](https://img.shields.io/badge/C%20Language-fff?logo=C&logoColor=black&style=flat)![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&style=flat)          | Android 进阶之光                           | Kotlin 编程权威指南          |
-| ![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=flat)        | ![Python](https://img.shields.io/badge/Python-3C07FF?logo=Python&logoColor=white&style=flat)        | Android 进阶解密                           | Kotlin 核心编程            |
+| ![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=flat)        | ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=fff&style=flat)![Python](https://img.shields.io/badge/Python-3C07FF?logo=Python&logoColor=white&style=flat)![Swift](https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=fff&style=flat)        | Android 进阶解密                           | Kotlin 核心编程            |
 |         | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat)![Html](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat)![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=flat) | Android 进阶指北                           | Kotlin 编程之美            |
-|         |                | Android 自定义控件开发与实战                     | 深入理解Kotlin协程           |
+|         |![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=fff&style=flat)![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=fff)![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=fff)                | Android 自定义控件开发与实战                     | 深入理解Kotlin协程           |
 |         |                | Android Jetpack 应用指南(官翻文档改自创的烂书，极其不推荐) | Jetpack Compose 从入门到实战 |
 |         |                | 深入理解Java虚拟机                            |                        |
 
@@ -35,8 +35,6 @@
 <!--Badge-->
 <h3>I Use</h3>
 
-![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=fff&style=flat)
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=fff&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=fff&style=flat)
 ![Sqlite](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=fff&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=fff&style=flat)
@@ -47,9 +45,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=fff&style=flat)
 ![Flask](https://img.shields.io/badge/Flask-fff?logo=Flask&logoColor=black&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff&style=flat)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=fff&style=flat)
-![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=fff)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=fff)
 ![Nuxt](https://img.shields.io/badge/Nuxt-4FC08D?logo=Nuxt.js&logoColor=fff)
 ![Next](https://img.shields.io/badge/Next-61DAFB?logo=Next.js&logoColor=fff)
 ![NextUI](https://img.shields.io/badge/NextUI-61DAFB?logo=nextui&logoColor=fff)
