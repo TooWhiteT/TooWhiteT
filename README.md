@@ -25,7 +25,7 @@
 <!-- 访问数据-->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TooWhiteT&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;">
-  <img src="https://badges.pufler.dev/visits/TooWhiteT/TooWhiteT?color=black&logo=github&style=flat-square">♂
+  <img src="https://badges.pufler.dev/visits/TooWhiteT/TooWhiteT?color=black&logo=github&style=flat-square">
 </div>
 
 <div align="center">
