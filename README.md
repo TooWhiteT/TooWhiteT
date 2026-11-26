@@ -70,6 +70,23 @@
 ![openai](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat)
 ![xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=fff&style=flat)
 
+<h3>AI Tech Stack</h3>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="48" alt="Claude"/><br/>Claude</td>
+    <td align="center"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex.svg" width="48" alt="Codex"/><br/>Codex</td>
+    <td align="center"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" width="48" alt="Gemini"/><br/>Gemini</td>
+    <td align="center"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg" width="48" alt="DeepSeek"/><br/>DeepSeek</td>
+    <td align="center"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/qwen-color.svg" width="48" alt="Qwen"/><br/>Qwen</td>
+    <td align="center"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/minimax-color.svg" width="48" alt="MiniMax"/><br/>MiniMax</td>
+    <td align="center"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" width="48" alt="Hugging Face"/><br/>Hugging Face</td>
+    <td align="center"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" width="48" alt="Ollama"/><br/>Ollama</td>
+    <td align="center"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/comfyui.svg" width="48" alt="ComfyUI"/><br/>ComfyUI</td>
+    <td align="center"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/nvidia-color.svg" width="48" alt="NVIDIA"/><br/>NVIDIA</td>
+  </tr>
+</table>
+
 <!-- 统计卡片 -->
 <!--<div>
   <img height="200px" width=”50%“ src="https://github-readme-stats.vercel.app/api?username=TooWhiteT&show_icons=true&count_private=true&hide=contribs,issues&theme=vue-dark&include_all_commits=true&bg_color=140DEG,4facfe,00f2fe&hide_border=true&locale=cn&icon_color=00f2fe&text_color=ffffff&title_color=e2af598"/>
