@@ -91,6 +91,10 @@
       <br/>DeepSeek
     </td>
     <td align="center">
+      <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" width="48" alt="Antigravity"/>
+      <br/>Antigravity
+    </td>
+    <td align="center">
       <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/qwen-color.svg" width="48" alt="Qwen"/>
       <br/>Qwen
     </td>
@@ -103,16 +107,8 @@
       <br/>Hugging Face
     </td>
     <td align="center">
-      <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" width="48" alt="Ollama"/>
-      <br/>Ollama
-    </td>
-    <td align="center">
       <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/comfyui-color.svg" width="48" alt="ComfyUI"/>
       <br/>ComfyUI
-    </td>
-    <td align="center">
-      <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/nvidia-color.svg" width="48" alt="NVIDIA"/>
-      <br/>NVIDIA
     </td>
   </tr>
 </table>
